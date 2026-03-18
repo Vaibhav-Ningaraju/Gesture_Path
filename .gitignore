@@ -9,7 +9,6 @@ venv/
 # Data & Training
 training/
 processed_data/
-server/data/
 
 # Logs
 logs

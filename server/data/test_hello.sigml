@@ -1,0 +1,14 @@
+<sigml>
+  <hns_sign gloss="test_hello">
+    <hamnosys_nonmanual>
+      <hnm_mouthpicture picture="test_hello"/>
+    </hamnosys_nonmanual>
+    <hamnosys_manual>
+      <hamflathand/>
+      <hamextfingeru/>
+      <hampalmd/>
+      <hamforehead/>
+      <hammoveo/>
+    </hamnosys_manual>
+  </hns_sign>
+</sigml>

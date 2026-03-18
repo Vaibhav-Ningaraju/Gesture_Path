@@ -1,0 +1,23 @@
+<sigml>
+<hns_sign gloss="dance">
+	<hamnosys_nonmanual>
+	</hamnosys_nonmanual>
+	<hamnosys_manual>
+		<hamsymmlr/>
+		<hamfinger23/>
+		<hamthumbacrossmod/>
+		<hamextfingeru/>
+		<hampalmd/>
+		<hamshoulders/>
+		<hamlrat/>
+		<hamparbegin/>
+		<hammoveu/>
+		<hamarcl/>
+		<hamreplace/>
+		<hamextfingeru/>
+		<hampalmu/>
+		<hamparend/>
+		<hamrepeatfromstartseveral/>
+	</hamnosys_manual>
+</hns_sign>
+</sigml>
